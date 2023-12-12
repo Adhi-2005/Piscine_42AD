@@ -6,7 +6,7 @@
 /*   By: adshafee <adshafee@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/05 12:28:44 by adshafee          #+#    #+#             */
-/*   Updated: 2023/12/12 09:15:55 by adshafee         ###   ########.fr       */
+/*   Updated: 2023/12/12 09:16:40 by adshafee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,8 +28,3 @@ void	ft_print_alphabet(void)
 // {
 // 	ft_print_alphabet();
 // }
-
-int	main(void)
-{
-	ft_print_alphabet();
-}
